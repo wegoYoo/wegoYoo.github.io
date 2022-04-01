@@ -449,10 +449,10 @@ nav ul li a {
 }
 
 /*-----------------------------------------------------------------------------------*/
-/*  resume
+/*  resume -> careers
 /*-----------------------------------------------------------------------------------*/
 
-#resume {
+#careers {
   height: auto;
   width: 100%;
   background: #f7f7f7;
@@ -460,31 +460,31 @@ nav ul li a {
   position: relative;
 }
 
-#resume {
+#careers {
   background: #fff;
   padding-bottom: 30px;
 }
 
-#resume .resume-block {
+#careers .careers-block {
   display: inline-block;
   height: auto;
   width: 100%;
 }
 
-#resume .resume-block .resume-info {
+#careers .careers-block .careers-info {
   position: relative;
 }
 
-.resume-block .resume-info img {
+.careers-block .careers-info img {
   max-width: 100%;
 }
 
-.resume-block .resume-info .resume-txt {
+.careers-block .careers-info .careers-txt {
   padding: 25px 0px;
   position: relative;
 }
 
-.resume-block .resume-info .resume-txt h4 a {
+.careers-block .careers-info .careers-txt h4 a {
   display: block;
   font-size: 19px;
   line-height: 24px;
@@ -498,7 +498,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.resume-block .resume-info .resume-txt h4 a:hover {
+.careers-block .careers-info .careers-txt h4 a:hover {
   color: #b8a07e;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -507,7 +507,7 @@ nav ul li a {
   transition: all 0.5s ease-in-out 0s;
 }
 
-.resume-block .resume-info .resume-txt p {
+.careers-block .careers-info .careers-txt p {
   margin: 0;
   font-size: 14px;
   line-height: 24px;
