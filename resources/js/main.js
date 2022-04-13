@@ -88,7 +88,7 @@ $(document).ready(function() {
   var typed2 = $(".typed2");
   
   $(function() {
-    typed2.typed2({
+    typed.typed2({
       strings: ["Back-end Program Language.", "Front-end Program Language.", "Open API.", "형상관리.", "UI/UX DESIGN.", "APP Program Language."],
       typeSpeed: 90,
       loop: true,
